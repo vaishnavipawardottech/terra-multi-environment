@@ -6,7 +6,6 @@ The project creates environment-specific EC2 instances, S3 buckets, and DynamoDB
 
 ## Screenshots
 
-Replace the placeholder paths below with screenshots captured from the AWS Console and Terraform workspace output. Keeping the screenshots in `docs/screenshots/` makes the README portable and easy to maintain.
 
 ### Provisioned AWS resources
 
