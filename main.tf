@@ -33,16 +33,7 @@ module "infra" {
 
 
 
-
-
-
-
-
-
-
-
-
-
+# without locals and workspace, we can use the below code to create multiple environments
 
 # module "dev-infra" {
 
