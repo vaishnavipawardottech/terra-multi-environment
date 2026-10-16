@@ -4,10 +4,8 @@ Infrastructure as Code for provisioning isolated development, staging, and produ
 
 The project creates environment-specific EC2 instances, S3 buckets, and DynamoDB tables from reusable Terraform modules. Resource quantities are selected automatically from the active workspace.
 
-## Screenshots
 
-
-### Provisioned AWS resources
+## Provisioned AWS resources
 
 #### EC2 instances
 
